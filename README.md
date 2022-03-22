@@ -1,6 +1,5 @@
 # 50Projects50Days
 
----
 
 * 参考教程：[50 Projects In 50 Days - HTML, CSS & JavaScript | Udemy](https://www.udemy.com/course/50-projects-50-days/)
 * 原教程demo集合：[50 Projects 50 Days | Traversy Media](https://50projects50days.com/)
